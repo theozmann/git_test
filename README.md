@@ -1,2 +1,3 @@
-# git_test
-Hello! Another refresher you say? Unfortunately :(
+# git_t
+
+Hello, Odin!
